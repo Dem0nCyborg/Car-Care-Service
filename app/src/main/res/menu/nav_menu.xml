@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/nav_order"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="My Orders" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_baseline_profile_24"
+        android:title="My Profile"/>
+
+    <item
+        android:id="@+id/my_loc"
+        android:icon="@drawable/ic_baseline_my_location_24"
+        android:title="My Address"/>
+    <item
+        android:id="@+id/nav_us"
+        android:icon="@drawable/ic_baseline_aboutus_24"
+        android:title="About Us"/>
+
+    </group>
+
+
+
+
+</menu>

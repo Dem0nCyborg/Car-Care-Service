@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">CarSer</string>
+    <string name="title_activity_navbar">Navbar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_navv1">Navv1</string>
+    <string name="number">+91 phoneNumberEditText</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_activity">main activity</string>
+    <string name="c1">HATCHBACK</string>
+    <string name="c2">CROSSOVER/MINIVAN</string>
+    <string name="c3">SEDAN/COUPE</string>
+    <string name="c4">SUV/MUV/STATION WAGON</string>
+    <string name="c5">SALOON/SUPERCAR</string>
+    <string name="c6">LARGE SUV/MUV/PICKUP</string>
+    <string name="title_activity_mtype">MType</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_packages">Packages</string>
+    <string name="title_activity_sedan_pac">SedanPac</string>
+
+    <string name="packa"> </string>
+    <string name="packb"> </string>
+    <string name="packc"> </string>
+    <string name="packd"> </string>
+    <string name="packe"> </string>
+    <string name="packf"> </string>
+    <string name="packg"> </string>
+
+</resources>

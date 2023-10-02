@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1070783662867",
+    "project_id": "carser-ed8ce",
+    "storage_bucket": "carser-ed8ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070783662867:android:570296b96fb954f88be8e6",
+        "android_client_info": {
+          "package_name": "com.chandan.carser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070783662867-0clkpmt0mjj3hk38n88a84opa46oics7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chandan.carser",
+            "certificate_hash": "6a7bb186949651ce295d294869c7f236bcef0fd0"
+          }
+        },
+        {
+          "client_id": "1070783662867-7k4fbagrh2of05e0bf7l3suauravapse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSPdnVzLu18E5omXP3TddVOGkbihKlywY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070783662867-7k4fbagrh2of05e0bf7l3suauravapse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
